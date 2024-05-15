@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
  
 setup(
-    name='zeb-rnd',
+    name='avarnd',
     packages=find_packages(),       # Automatically find and include all packages
-    version='0.3',                  # Start with a small number and increase it with every change you make
+    version='0.1',                  # Start with a small number and increase it with every change you make
     license='MIT',                  # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     description='Sample package that conssists of addition and subtraction methods.',   # Give a short description about your library
     author='Shriyokesh',             # Type in your name
