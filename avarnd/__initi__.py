@@ -1,1 +1,1 @@
-from zebRnd import zebRndAdd, zebRndSubtract
+from avarnd import avaRndAdd, avaRndSubtract

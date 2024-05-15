@@ -1,4 +1,4 @@
-class zebRndAdd:
+class avaRndAdd:
     def __init__(self):
         self.a = 0
         self.b = 0
@@ -11,7 +11,7 @@ class zebRndAdd:
 
         return self.result
     
-class zebRndSubtract:
+class avaRndSubtract:
     def __init__(self):
         self.a = 0
         self.b = 0
